@@ -1,0 +1,5 @@
+print("reza")
+print ("how are you today ")
+input("do you feel comfortable:Y/N\n")
+x = input(str())
+print(x)
